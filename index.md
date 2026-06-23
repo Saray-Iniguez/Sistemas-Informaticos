@@ -2,7 +2,7 @@
 
 ## Practicas
 
-- [Practica Tema 4](/Tema%204/P1.%20Administración%20y%20configuración%20en%20Ubuntu.md)
+- [Practica Tema 4](Tema 4%205/P1. Administración y configuración en Ubuntu.md)
 
 - [Practica 1 Tema 5](/Tema%205/P1.%20Conexiones%20de%20redes%20y%20gestión%20de%20recursos%20en%20Linux.md)
 
